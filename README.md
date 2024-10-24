@@ -27,8 +27,10 @@ An interactive **dashboard** has been created to visualize key insights, includi
 - Top 10 sports by participation.
 - Medal count by gender.
 - Top athletes by medal count.
-
-### [View the Dashboard](https://github.com/user-attachments/assets/4b4db26b-a336-4e83-8da9-9eaf02095dc8)
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e4907471-458b-442a-a451-685ef32c75f3" width="800" height="450" style="margin: 10px;" alt="Olympic Data Insights">
+</div>
 
 ## 🛠️ Data Analysis Using Excel, Python, and Power BI
 
